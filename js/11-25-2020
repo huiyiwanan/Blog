@@ -1,0 +1,25 @@
+## 传参时出现特殊字符或包含换行符 导致转义eval报错
+
+```
+eval(fun + '({obj:\'' + opb + '\',data:\'' + JSON.stringify(vals) + '\'})');
+
+```
+
+当vals 内出现 "" '' 等时 会导致报错~
+
+解决思路：放弃`JSON.stringfy()`,将vals放置在全局下 直接读取
+
+
+
+对于eval的代替方法
+
+```
+/**代替eval()方法
+ * */
+function looseJsonParse(obj){
+    return Function('"use strict";return (' + obj + ')')();
+};
+```
+
+
+
