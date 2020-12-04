@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a735d5be-2fe6-4849-80c0-84f956c12821" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/npm/包管理镜像源切换.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/life-cycle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diary/2020-11/first-date.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diary/2020-10/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diary/2020-11/13.md" beforeDir="false" afterPath="$PROJECT_DIR$/diary/2020-11/17.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diary/2020-11/18..md" beforeDir="false" afterPath="$PROJECT_DIR$/diary/2020-11/18..md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../BaiduNetdiskDownload/框架/react" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -57,6 +59,7 @@
       <updated>1605220182183</updated>
       <workItem from="1605220183520" duration="2319000" />
       <workItem from="1605222519409" duration="720000" />
+      <workItem from="1607085512981" duration="152000" />
     </task>
     <servers />
   </component>
