@@ -1,6 +1,5 @@
 # Blogs
-收录学习印记~
-`npm i`
+收录学习印记~ `npm i`
 ## 转载篇
 ### primary => senior
 
