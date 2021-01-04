@@ -1,15 +1,11 @@
 Header: code editing.
 sync: auto setting of ide
-
-## Review
-1. 9:00 - 11:00
-  vscode<br/> 
-    a. keyboard-shortcuts
-      1). select all matches => ctrl + shift + l;
-      2). toggle fold block => ctrl + k + 0; ctrl + k + j;
-      3). 
-    b. plugin
-      1). sync - alt + shift + d(double click)
-      2). eslint
-      3). beauty - formatter
+a. keyboard-shortcuts
+  1). select all matches => ctrl + shift + l;
+  2). toggle fold block => ctrl + k + 0; ctrl + k + j;
+  3). 
+b. plugin
+  1). sync - alt + shift + d(double click)
+  2). eslint
+  3). beauty - formatter
   
